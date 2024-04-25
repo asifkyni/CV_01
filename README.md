@@ -6,7 +6,7 @@ Contents
 3.	PyTorch Examples: Learn how to apply computer vision techniques using PyTorch framework, with detailed examples and explanations.
 Getting Started
 To get started with the examples and tutorials in this repository, follow these steps:
-1.	Clone this repository to your local machine using git clone https://github.com/your-username/CV-01.git.
+1.	Clone this repository to your local machine using git clone (https://github.com/asifkyni/CV_01.git).
 2.	Navigate to the directory containing the code examples.
 3.	Explore the provided Jupyter notebooks or Python scripts to understand different computer vision concepts.
 4.	Install the required dependencies using pip install -r requirements.txt.
